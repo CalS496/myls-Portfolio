@@ -47,7 +47,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Calvin H** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Calvin H**
 
 ## License
 
@@ -55,4 +55,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-*Special thanks to my professor who taught me much about the importance of the Shell for Operating Systems. 
+*Special thanks to my professor for the guidance on completing this project and for teaching me much about the importance of the Shell for Operating Systems. 
+
