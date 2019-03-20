@@ -6,6 +6,8 @@ myls-Portfolio is a repository that showcases the myls assignment from CS215 - I
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+**Please note that included are different versions of the assignment for various stages of the assignment's completion. The final version is myls.c**
+
 ### Prerequisites
 
 What things you need to install the software and how to install them
@@ -15,12 +17,12 @@ What things you need to install the software and how to install them
 ## Deployment
 
 To compile and create and output execution file:
-                      gcc minsh.c -o minsh
+                      gcc myls.c -o myls
 To execute:
                      with verbose:
-                               ./minsh
+                               ./myls
                      without verbose:
-                                ./minsh -v
+                                ./myls -v
 
 ## Additional Notes
 
